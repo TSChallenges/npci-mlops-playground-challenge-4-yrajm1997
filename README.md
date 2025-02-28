@@ -24,7 +24,7 @@ You are tasked with developing a machine learning model that predicts the likeli
 - `ML_Classification_Model_Building.ipynb`
 
 ### Requirements:
-1. Implement the exercies givne in the notebook.
+1. Implement the exercies given in the notebook.
 2. Write clean and understandable code.
 
 ## Submission Requirements:
