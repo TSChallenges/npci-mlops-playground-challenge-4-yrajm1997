@@ -1,4 +1,4 @@
-## NPCI MLOps Playground Challenge-4 (20 marks)
+## NPCI MLOps Playground Challenge-4  (20 Marks)
 
 ### Problem Statement
 You are tasked with developing a machine learning model that predicts the likelihood of a borrower defaulting on a loan based on factors such as credit history, repayment capacity, and annual income. This model aims to assist financial institutions in assessing the potential financial impact of credit risk and making informed lending decisions.
@@ -17,7 +17,13 @@ You are tasked with developing a machine learning model that predicts the likeli
 
 4. Review the code/comments present in above notebook to understand the problem statement.
 5. Implement the exercises marked with **TODO** comments.
-6. To work on the notebook, you can clone this GitHub repository onto your system and then open it with an IDE like VS Code, or Google Colab.
+6. To work on the notebook:
+    - Start a new GitHub Codespace.
+    - Install the required packages by running `pip install -r requirements.txt`
+    - Write your code in the notebook's code cell and execute it. 
+    - On the first run, it will prompt you to install the `Python` and `Jupyter` extentions. Go ahead and install them.
+    - Next, it will ask you to select a `Python Environment` - choose the one marked as 'Recommended'.
+    - After that, the code cell should execute without any issues.
 7. Once done, push your changes to this remote GitHub repository.
 
 ### Files to Work On
@@ -44,7 +50,8 @@ If using terminal:
     ```
 
 If using the Source Control icon:
-  - Click on `+` (showing on the Changes dropdown) to stage all your changes.
+  - Go to the Source Control icon.
+  - Click on `+` icon (showing on the `Changes` dropdown) to stage all your changes.
   - Enter a commit message and select `Commit`.
   - At last, select `Sync Changes` to push your changes to the GitHub repository
 
