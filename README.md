@@ -53,6 +53,6 @@ If using the Source Control icon:
   - Go to the Source Control icon.
   - Click on `+` icon (showing on the `Changes` dropdown) to stage all your changes.
   - Enter a commit message and select `Commit`.
-  - At last, select `Sync Changes` to push your changes to the GitHub repository
+  - At last, select `Sync Changes` to push your changes to the GitHub repository.
 
 Good luck, and happy coding!
